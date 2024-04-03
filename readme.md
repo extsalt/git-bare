@@ -1,0 +1,1 @@
+##### Git bare setup
